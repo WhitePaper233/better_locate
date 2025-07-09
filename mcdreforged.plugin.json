@@ -1,0 +1,11 @@
+{
+    "id": "better_locate",
+    "version": "1.0.0",
+    "name": "BetterLocate",
+    "description": "The locate command in MCDR, but more easier to use!",
+    "author": "WhitePaper233",
+    "link": "https://github.com/WhitePaper233/better_locate",
+    "dependencies": {
+        "mcdreforged": ">=2.1.4"
+    }
+}

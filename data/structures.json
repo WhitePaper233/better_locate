@@ -1,0 +1,70 @@
+[
+  {
+    "id": "minecraft:village_desert",
+    "name": "村庄（沙漠）"
+  },
+  {
+    "id": "minecraft:village_plains",
+    "name": "村庄（平原）"
+  },
+  {
+    "id": "minecraft:village_savanna",
+    "name": "村庄（热带草原）"
+  },
+  {
+    "id": "minecraft:village_taiga",
+    "name": "村庄（针叶林）"
+  },
+  {
+    "id": "minecraft:village_snowy",
+    "name": "村庄（雪原）"
+  },
+  {
+    "id": "minecraft:stronghold",
+    "name": "要塞"
+  },
+  {
+    "id": "minecraft:mineshaft",
+    "name": "矿井遗迹"
+  },
+  {
+    "id": "minecraft:desert_pyramid",
+    "name": "沙漠神殿"
+  },
+  {
+    "id": "minecraft:jungle_pyramid",
+    "name": "丛林神庙"
+  },
+  {
+    "id": "minecraft:swamp_hut",
+    "name": "沼泽小屋"
+  },
+  {
+    "id": "minecraft:monument",
+    "name": "海底神殿"
+  },
+  {
+    "id": "minecraft:mansion",
+    "name": "林地府邸"
+  },
+  {
+    "id": "minecraft:bastion_remnant",
+    "name": "堡垒遗迹"
+  },
+  {
+    "id": "minecraft:ancient_city",
+    "name": "远古城市"
+  },
+  {
+    "id": "minecraft:pillager_outpost",
+    "name": "掠夺者前哨站"
+  },
+  {
+    "id": "minecraft:end_city",
+    "name": "末地城"
+  },
+  {
+    "id": "minecraft:fortress",
+    "name": "下界要塞"
+  }
+]

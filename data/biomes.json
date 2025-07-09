@@ -1,0 +1,154 @@
+[
+  {
+    "id": "minecraft:plains",
+    "name": "平原"
+  },
+  {
+    "id": "minecraft:forest",
+    "name": "森林"
+  },
+  {
+    "id": "minecraft:flower_forest",
+    "name": "繁花森林"
+  },
+  {
+    "id": "minecraft:birch_forest",
+    "name": "白桦森林"
+  },
+  {
+    "id": "minecraft:dark_forest",
+    "name": "黑森林"
+  },
+  {
+    "id": "minecraft:taiga",
+    "name": "针叶林"
+  },
+  {
+    "id": "minecraft:snowy_taiga",
+    "name": "积雪针叶林"
+  },
+  {
+    "id": "minecraft:savanna",
+    "name": "热带草原"
+  },
+  {
+    "id": "minecraft:jungle",
+    "name": "丛林"
+  },
+  {
+    "id": "minecraft:bamboo_jungle",
+    "name": "竹林"
+  },
+  {
+    "id": "minecraft:desert",
+    "name": "沙漠"
+  },
+  {
+    "id": "minecraft:badlands",
+    "name": "恶地"
+  },
+  {
+    "id": "minecraft:swamp",
+    "name": "沼泽"
+  },
+  {
+    "id": "minecraft:mangrove_swamp",
+    "name": "红树林沼泽"
+  },
+  {
+    "id": "minecraft:mountains",
+    "name": "山地"
+  },
+  {
+    "id": "minecraft:meadow",
+    "name": "草甸"
+  },
+  {
+    "id": "minecraft:snowy_plains",
+    "name": "积雪平原"
+  },
+  {
+    "id": "minecraft:snowy_slopes",
+    "name": "积雪山坡"
+  },
+  {
+    "id": "minecraft:windswept_hills",
+    "name": "风袭丘陵"
+  },
+  {
+    "id": "minecraft:stony_peaks",
+    "name": "石峰"
+  },
+  {
+    "id": "minecraft:beach",
+    "name": "沙滩"
+  },
+  {
+    "id": "minecraft:ocean",
+    "name": "海洋"
+  },
+  {
+    "id": "minecraft:warm_ocean",
+    "name": "暖水海洋"
+  },
+  {
+    "id": "minecraft:frozen_ocean",
+    "name": "冻结海洋"
+  },
+  {
+    "id": "minecraft:river",
+    "name": "河流"
+  },
+  {
+    "id": "minecraft:mushroom_fields",
+    "name": "蘑菇岛"
+  },
+  {
+    "id": "minecraft:dripstone_caves",
+    "name": "滴水石洞穴"
+  },
+  {
+    "id": "minecraft:lush_caves",
+    "name": "繁茂洞穴"
+  },
+  {
+    "id": "minecraft:deep_dark",
+    "name": "幽匿之地"
+  },
+  {
+    "id": "minecraft:nether_wastes",
+    "name": "下界荒地"
+  },
+  {
+    "id": "minecraft:warped_forest",
+    "name": "诡异森林"
+  },
+  {
+    "id": "minecraft:crimson_forest",
+    "name": "绯红森林"
+  },
+  {
+    "id": "minecraft:soul_sand_valley",
+    "name": "灵魂沙峡谷"
+  },
+  {
+    "id": "minecraft:basalt_deltas",
+    "name": "玄武岩三角洲"
+  },
+  {
+    "id": "minecraft:end_highlands",
+    "name": "末地高地"
+  },
+  {
+    "id": "minecraft:end_midlands",
+    "name": "末地中地"
+  },
+  {
+    "id": "minecraft:end_barrens",
+    "name": "末地荒地"
+  },
+  {
+    "id": "minecraft:small_end_islands",
+    "name": "末地小型岛屿"
+  }
+]
